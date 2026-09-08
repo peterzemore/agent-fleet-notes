@@ -9,7 +9,7 @@ this is the story of the design rules and incidents.
 - **De-identified, always.** No business name, city, phone numbers, email addresses,
   hostnames, ports, credential names, staff or customer names, message contents, revenue
   figures, vendor/platform names (telephony, commerce, chat, hosting stay generic), or code.
-  Before committing, grep for the store name, "Dayton", "@", port numbers, and vendor names.
+  Before committing, grep for the store name, the city name, "@", port numbers, and vendor names.
 - Agent names (Vito, Sonny, Emily, Anna, Ada, Thoth) are fine; they are already public via
   llm-agent-evals.
 - Incidents are told plainly, including the unsubscribe-gap one; Peter approved that framing
